@@ -7,7 +7,7 @@ Powered by [Textual](https://textualize.io) and the [AlAdhan Islamic Calendar AP
 ---
 
 <p align="center">
-  <img src="screenshot_hijra.gif" alt="Hijra Terminal Suite Demo" width="85%" />
+  <img src="screenshot_hijri.gif" alt="Hijra Terminal Suite Demo" width="85%" />
 </p>
 
 ---
