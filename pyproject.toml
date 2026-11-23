@@ -1,0 +1,42 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "hijri-tui"
+version = "0.1.0"
+description = "☪ Terminal UI for the Islamic Hijri calendar with lunar phases, Sunnah fasting days, and holy days in Dracula theme."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "GPL-3.0-or-later" }
+authors = [
+    { name = "postsonde" }
+]
+keywords = ["hijri", "islamic-calendar", "tui", "textual", "dracula", "terminal", "aladhan"]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Environment :: Console",
+    "Intended Audience :: End Users/Desktop",
+    "License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)",
+    "Operating System :: POSIX :: Linux",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Topic :: Utilities",
+]
+dependencies = [
+    "textual>=0.80.0",
+]
+
+[project.urls]
+Homepage = "https://github.com/postsonde/hijri-tui"
+Repository = "https://github.com/postsonde/hijri-tui"
+Issues = "https://github.com/postsonde/hijri-tui/issues"
+
+[project.scripts]
+hijri = "hijri_tui:main"
+
+[tool.setuptools]
+py-modules = ["hijri_tui"]
