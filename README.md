@@ -6,10 +6,9 @@ Powered by [Textual](https://textualize.io) and the [AlAdhan Islamic Calendar AP
 
 ---
 
-![Hijri Calendar View](screenshot.png)
-&nbsp;
-&nbsp;
-![Gregorian Overlay View](screenshot2.png)
+<p align="center">
+  <img src="screenshot_hijra.gif" alt="Hijra Terminal Suite Demo" width="85%" />
+</p>
 
 ---
 
