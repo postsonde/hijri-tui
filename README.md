@@ -73,7 +73,11 @@ This project is licensed under the **GNU General Public License v3.0 (GPLv3)** â
 
 ## â˜ª Islamic Terminal Suite (Dracula Theme)
 
-Part of a collection of minimalist Islamic terminal apps styled in the Dracula dark theme:
+A minimalist suite of Islamic terminal applications built with Python & [Textual](https://textualize.io), styled in the [Dracula](https://draculatheme.com) dark theme.
+
+<p align="center">
+  <img src="islamic-tui-suite.gif" alt="Islamic Terminal Suite Demo" width="85%" />
+</p>
 
 | App | Command | Description |
 | :--- | :--- | :--- |
