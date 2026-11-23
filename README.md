@@ -7,6 +7,7 @@ Powered by [Textual](https://textualize.io) and the [AlAdhan Islamic Calendar AP
 ---
 
 ![Hijri Calendar View](screenshot.png)
+&nbsp;
 ![Gregorian Overlay View](screenshot2.png)
 
 ---
