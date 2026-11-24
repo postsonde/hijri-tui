@@ -1,6 +1,6 @@
 # ☪ hijri-tui
 
-**Terminal UI for the Islamic Hijri calendar with lunar phases, Sunnah fasting days, and holy days — styled in the Dracula dark theme.**
+**Terminal UI for the Islamic Hijri calendar  🌑 🌒 🌓 🌔 🌕 🌖 🌗 🌘 with lunar phases, Sunnah fasting days, and holy days — styled in the Dracula dark theme.**
 
 Powered by [Textual](https://textualize.io) and the [AlAdhan Islamic Calendar API](https://aladhan.com).
 
