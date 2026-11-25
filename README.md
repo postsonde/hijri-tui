@@ -32,7 +32,7 @@ Powered by [Textual](https://textualize.io) and the [AlAdhan Islamic Calendar AP
 ### From Source (Editable / Local)
 
 ```bash
-pipx install git+https://github.com/postsonde/hijri-tui.git
+pipx install hijri-tui
 ```
 
 ### Run
@@ -66,7 +66,7 @@ hijri
 
 ## 📄 License
 
-This project is licensed under the **GNU General Public License v3.0 (GPLv3)** — see the [LICENSE](LICENSE) file for details.
+**GNU General Public License v3.0** (GNU GPLv3) **🄯 All Lights returned** [postsonde](https://github.com/postsonde)
 
 ---
 
